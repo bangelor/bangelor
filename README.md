@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bangelor
 - 👀 I’m interested in Machine Learning and Data Science Projects
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on Tensorflow Projects
+- 🌱 I’m currently learning dbt
+- 💞️ I’m looking to collaborate on dbt and MLOps Projects
 - 📫 How to reach me lorenz.bangerter@icloud.com
 
 <!---
