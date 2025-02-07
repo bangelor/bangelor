@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bangelor
-- 👀 I’m interested in Machine Learning and Data Science Projects
-- 🌱 I’m currently learning dbt
+- 👀 I’m interested in Data Engineering and Data Ops
+- 🌱 I’m currently lfocusing on dbt
 - 💞️ I’m looking to collaborate on dbt and MLOps Projects
 - 📫 How to reach me lorenz.bangerter@icloud.com
 
